@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import joblib
-from PIL import Image
+from PIL import Image 
 
 # ----------------------------
 # Configure Streamlit App
